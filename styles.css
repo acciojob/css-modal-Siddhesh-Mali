@@ -1,38 +1,12 @@
 
-      #openModal{
-        position: absolute;
-        top: 0;
-        left: 0;
-      }
-      .modal{
-        background-color: rgba(0, 0, 0,0.3);
-        height: 100%;
-        width: 100%;
-       
-        padding: 10% 20%;
-        /* position: relative; */
-
-      }
-
+      
       .modal-header{
         background-color: rgb(87, 229, 87);
         color: white;
         height: 50px;
       }
 
-      .modal-content{
-        height: 200px;
-        padding: 40px;
-      }
-
-      #modal {
-    display: none;
-}
-
-#modal:target {
-    display: block;
-}
-
+     
 
 
 
